@@ -31,5 +31,5 @@ I have worked on projects which involve applying program synthesis to hardware d
 I presented my progress on this work at [PLArch '23](https://pldi23.sigplan.org/home/plarch-2023#program).
 
 
-In my free time I used to play a lot of rugby, including for the UCLA men's team.
-I now serve as an assistant coach for the UCSB rugby team and play golf and touch rugby.
+In my free time, I used to play a lot of rugby including a 4-year stint for the UCLA men's team.
+I now stick to touch rugby and serve as an assistant coach for the UCSB rugby team as well as play an occasional round of golf.
