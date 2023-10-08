@@ -13,7 +13,7 @@ MS Student<br/>
 Computer Science<br/>
 University of California, Santa Barbara<br/>
 Email: aalex at ucsb dot edu<br/>
-<a href="/assets/cv.pdf">Curriculum Vitae</a>
+<a href="/assets/CV10082023.pdf">Curriculum Vitae</a>
 
 </td>
 </table>
@@ -29,3 +29,7 @@ I also spent 4 years as a software engineer at [Zillow](https://www.zillow.com/)
 My research interests broadly lie in the intersection of computer architecture and programming languages.
 I have worked on projects which involve applying program synthesis to hardware design and most recently on a compiler which targets matrix multiplication accelerators from general-purpose code.
 I presented my progress on this work at [PLArch '23](https://pldi23.sigplan.org/home/plarch-2023#program).
+
+
+In my free time I used to play a lot of rugby, including for the UCLA men's team.
+I now serve as an assistant coach for the UCSB rugby team and play golf and touch rugby.
