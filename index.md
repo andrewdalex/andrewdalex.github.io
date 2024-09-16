@@ -18,7 +18,8 @@ Email: aalex at ucsb dot edu<br/>
 </td>
 </table>
 
-**I'll be applying to PhD programs in computer science this fall!**
+<s>I'll be applying to PhD programs in computer science this fall!</s>
+**I'll be starting a PhD at University of Washington Computer Science and Engineering this fall!**
 
 ## About Me
 I'm an MS student at UC Santa Barbara advised by [Jonathan Balkind](https://jbalkind.github.io/), but this fall 2023, I have had the opportunity to join [AMD](https://www.amd.com/en.html) Research as an intern in Boxborough, MA, where my work focuses on investigating the use of combinatorial optimization meta-heuristics in CPU microarchitectural design.
