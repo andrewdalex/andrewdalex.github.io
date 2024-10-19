@@ -9,28 +9,26 @@ layout: home
 <img src="/assets/smallerme.png">
 </td>
 <td valign="top" style="border:None;">
-MS Student<br/>
-Computer Science<br/>
-University of California, Santa Barbara<br/>
-Email: aalex at ucsb dot edu<br/>
-<a href="/assets/CV10082023.pdf">Curriculum Vitae</a>
+PhD Student<br/>
+Computer Science & Engineering<br/>
+University of Washington<br/>
+Email: adalex@cs.washington.edu<br/>
+<a href="/assets/CV10192024.pdf">Curriculum Vitae</a>
 
 </td>
 </table>
 
-<s>I'll be applying to PhD programs in computer science this fall!</s>
-**I'll be starting a PhD at University of Washington Computer Science and Engineering this fall!**
 
 ## About Me
-I'm an MS student at UC Santa Barbara advised by [Jonathan Balkind](https://jbalkind.github.io/), but this fall 2023, I have had the opportunity to join [AMD](https://www.amd.com/en.html) Research as an intern in Boxborough, MA, where my work focuses on investigating the use of combinatorial optimization meta-heuristics in CPU microarchitectural design.
-Previously, I earned a BS in Mathematics of Computation at UCLA.
-I then spent 4 years as a software engineer at [Zillow](https://www.zillow.com/) primarily working on large-scale distributed systems for low-latency location data processing in [Apache Spark](https://spark.apache.org/) and [Apache Kafka](https://kafka.apache.org/) before deciding to pursue a career in computer science research.
+I'm a first year PhD student in Computer Science & Engineering at the University of Washington advised by [Gilbert Bernstein](http://www.gilbertbernstein.com/) in the [PLSE](https://uwplse.org/) group.
+Previously, I was an MS student at UC Santa Barbara advised by [Jonathan Balkind](https://jbalkind.github.io/).
+Even earlier, I earned a BS in Mathematics of Computation at UCLA and then spent 4 years as a software engineer at [Zillow](https://www.zillow.com/) primarily working on large-scale distributed systems for low-latency location data processing in [Apache Spark](https://spark.apache.org/) and [Apache Kafka](https://kafka.apache.org/) before deciding to pursue a career in computer science research.
 
 
 My research interests broadly lie in the intersection of computer architecture and programming languages.
-I have worked on projects which involve applying program synthesis to hardware design, and most recently, on a compiler which targets matrix multiplication accelerators from general-purpose code.
+I have worked on projects which involve applying program synthesis to hardware design (to appear at ASPLOS '25), and on a compiler which targets matrix multiplication accelerators from general-purpose code as the topic of my MS thesis.
 I presented my progress on this work at [PLArch '23](https://pldi23.sigplan.org/home/plarch-2023#program) in Orlando.
 
 
 In my free time, I used to play a lot of rugby including a 4-year stint for the UCLA men's team.
-I now stick to touch rugby, serve as an assistant coach for the UCSB rugby team, and play an occasional round of golf.
+I now stick to touch rugby, and play an occasional round of golf.
