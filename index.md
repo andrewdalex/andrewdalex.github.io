@@ -21,7 +21,7 @@ Email: adalex@cs.washington.edu<br/>
 
 ## About Me
 I'm a first year PhD student in Computer Science & Engineering at the University of Washington advised by [Gilbert Bernstein](http://www.gilbertbernstein.com/) in the [PLSE](https://uwplse.org/) group.
-Previously, I was an MS student at UC Santa Barbara advised by [Jonathan Balkind](https://jbalkind.github.io/).
+Previously, I earned an MS in Computer Science at UC Santa Barbara advised by [Jonathan Balkind](https://jbalkind.github.io/).
 Even earlier, I earned a BS in Mathematics of Computation at UCLA and then spent 4 years as a software engineer at [Zillow](https://www.zillow.com/) primarily working on large-scale distributed systems for low-latency location data processing in [Apache Spark](https://spark.apache.org/) and [Apache Kafka](https://kafka.apache.org/) before deciding to pursue a career in computer science research.
 
 
