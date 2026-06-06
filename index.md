@@ -6,7 +6,7 @@ layout: home
 
 <table style="border:None;">
 <td style="padding:0;border:None;">
-<img src="/assets/smallerme.png">
+<img src="/assets/headshot.jpg" style="width: 300px; height: auto;">
 </td>
 <td valign="top" style="border:None;">
 PhD Student<br/>
